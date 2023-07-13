@@ -1,0 +1,11 @@
+21:44:45 => [error]first log message!
+21:44:45 => [error]/home/dengjiacheng/dengjc/rpc/example/callee/friendservice.cc:main:42
+21:54:22 => [error]first log message!
+21:54:22 => [error]/home/dengjiacheng/dengjc/rpc/example/callee/friendservice.cc:main:42
+21:58:34 => [error]first log message!
+21:58:34 => [error]/home/dengjiacheng/dengjc/rpc/example/callee/friendservice.cc:main:42
+22:6:28 => [info]first log message!
+22:6:34 => [error]/home/dengjiacheng/dengjc/rpc/example/callee/friendservice.cc:main:42
+22:8:39 => [error] first log message!
+22:8:39 => [error] /home/dengjiacheng/dengjc/rpc/example/callee/friendservice.cc:main:42
+22:14:31 => [info] first log message!

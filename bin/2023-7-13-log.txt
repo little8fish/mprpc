@@ -1,0 +1,3 @@
+10:43:36 => [info] first log message!
+10:47:20 => [info] first log message!
+10:49:50 => [info] first log message!
